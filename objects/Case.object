@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <listViews>
+        <fullName>Booyah_Case</fullName>
+        <filterScope>Queue</filterScope>
+        <label>Booyah</label>
+        <queue>Booyah</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>Platinum_Suport_Case</fullName>
+        <filterScope>Queue</filterScope>
+        <label>Platinum Suport</label>
+        <queue>Platinum_Suport</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>Premium_Support_Case</fullName>
+        <filterScope>Queue</filterScope>
+        <label>Premium Support</label>
+        <queue>Premium_Support</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+    </listViews>
+    <listViews>
+        <fullName>Standard_Support_Case</fullName>
+        <filterScope>Queue</filterScope>
+        <label>Standard Support</label>
+        <queue>Standard_Support</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
+    </listViews>
+</CustomObject>
