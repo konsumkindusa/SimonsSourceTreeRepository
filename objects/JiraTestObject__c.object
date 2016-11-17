@@ -81,7 +81,7 @@
                 <default>false</default>
             </picklistValues>
             <picklistValues>
-                <fullName>Value04</fullName>
+                <fullName>Value04Modified</fullName>
                 <default>false</default>
             </picklistValues>
             <restrictedPicklist>true</restrictedPicklist>
