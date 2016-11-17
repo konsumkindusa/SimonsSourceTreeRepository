@@ -68,6 +68,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>JiraTestObject__c.CheckBoxDemo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>JiraTestObject__c.PickListModDemo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Lead.DB_Created_Date_without_Time__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -260,6 +270,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>test__c-test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>JiraTestObject__c-JiraTestObject Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>

@@ -68,6 +68,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>JiraTestObject__c.CheckBoxDemo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>JiraTestObject__c.PickListModDemo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Lead.DB_Created_Date_without_Time__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -261,6 +271,9 @@
     <layoutAssignments>
         <layout>test__c-test Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>JiraTestObject__c-JiraTestObject Layout</layout>
+    </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -358,6 +371,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>GitEZCommitTest__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>JiraTestObject__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

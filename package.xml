@@ -51,6 +51,8 @@
         <members>Campsite__c.Description__c</members>
         <members>Candidate__c.Rating__c</members>
         <members>GIT_TEST__c.GIT_TEST_TEXT__c</members>
+        <members>JiraTestObject__c.CheckBoxDemo__c</members>
+        <members>JiraTestObject__c.PickListModDemo__c</members>
         <members>JobPosting__c.PositionJobPosting__c</members>
         <members>JobPosting__c.Website__c</members>
         <members>Lead.DB_Created_Date_without_Time__c</members>
@@ -95,6 +97,7 @@
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
         <members>GitEZCommitTest__c</members>
+        <members>JiraTestObject__c</members>
         <members>JobPosting__c</members>
         <members>Job_Application__c</members>
         <members>Merchandize__c</members>
@@ -142,6 +145,7 @@
         <members>Fundraiser__c-Fundraiser Layout</members>
         <members>GIT_TEST__c-GIT TEST Layout</members>
         <members>GitEZCommitTest__c-GitEZCommitTest Layout</members>
+        <members>JiraTestObject__c-JiraTestObject Layout</members>
         <members>Job_Application__c-Job Application Layout</members>
         <members>Merchandize__c-Merchandize Layout</members>
         <members>Position_Title__c-Position Title Layout</members>
@@ -232,6 +236,7 @@
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
         <members>GitEZCommitTest__c</members>
+        <members>JiraTestObject__c</members>
         <members>Job_Application__c</members>
         <members>Merchandize__c</members>
         <members>Position_Title__c</members>
@@ -259,6 +264,7 @@
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
         <members>GitEZCommitTest__c</members>
+        <members>JiraTestObject__c</members>
         <members>JobPosting__c</members>
         <members>Job_Application__c</members>
         <members>Merchandize__c</members>
