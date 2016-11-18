@@ -53,6 +53,7 @@
         <members>Achieve3000__c.Demo_Description__c</members>
         <members>Activity.DB_Activity_Type__c</members>
         <members>BooksApexClassPlusTestClass__c.Price__c</members>
+        <members>BooksApexClassPlusTestClass__c.TestURLField__c</members>
         <members>Campaign.DB_Campaign_Tactic__c</members>
         <members>Campsite_Reservation__c.Campsite__c</members>
         <members>Campsite_Reservation__c.End_Date__c</members>

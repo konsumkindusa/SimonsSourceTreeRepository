@@ -47,7 +47,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Modification of Object</description>
+    <description>A second modification 11/18</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -66,6 +66,15 @@
         <trackTrending>false</trackTrending>
         <type>Number</type>
         <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>TestURLField__c</fullName>
+        <description>Demonstrating adding a field</description>
+        <externalId>false</externalId>
+        <label>TestURLField</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
     </fields>
     <label>BooksApexClassPlusTestClass</label>
     <nameField>

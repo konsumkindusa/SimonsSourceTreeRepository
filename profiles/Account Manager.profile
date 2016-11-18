@@ -51,6 +51,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>BooksApexClassPlusTestClass__c.TestURLField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Campaign.DB_Campaign_Tactic__c</field>
         <readable>true</readable>
     </fieldPermissions>
