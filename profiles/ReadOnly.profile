@@ -20,6 +20,14 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>HelloWorldTestClass</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>MyHelloWorld</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>false</editable>
@@ -34,6 +42,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Achieve3000__c.Demo_Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>BooksApexClassPlusTestClass__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -273,6 +286,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>JiraTestObject__c-JiraTestObject Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>BooksApexClassPlusTestClass__c-ApexClassPlusTestClass Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>true</default>
