@@ -52,6 +52,7 @@
         <members>Account__c.Account_Rating__c</members>
         <members>Achieve3000__c.Demo_Description__c</members>
         <members>Activity.DB_Activity_Type__c</members>
+        <members>BellasObject__c.PicklistDemoForBella__c</members>
         <members>BooksApexClassPlusTestClass__c.Price__c</members>
         <members>BooksApexClassPlusTestClass__c.TestURLField__c</members>
         <members>Campaign.DB_Campaign_Tactic__c</members>
@@ -101,6 +102,7 @@
         <members>Account__c</members>
         <members>Achieve3000__c</members>
         <members>AutoRABIT_Demo__c</members>
+        <members>BellasObject__c</members>
         <members>BooksApexClassPlusTestClass__c</members>
         <members>Campsite_Reservation__c</members>
         <members>Campsite__c</members>
@@ -150,6 +152,7 @@
         <members>Account__c-Account Layout</members>
         <members>Achieve3000__c-Achieve3000 Layout</members>
         <members>AutoRABIT_Demo__c-AutoRABIT Demo Layout</members>
+        <members>BellasObject__c-BellasObject Layout</members>
         <members>BooksApexClassPlusTestClass__c-ApexClassPlusTestClass Layout</members>
         <members>Campsite_Reservation__c-Campsite Reservation Layout</members>
         <members>Campsite__c-Campsite Layout</members>
@@ -243,6 +246,7 @@
         <members>Account__c</members>
         <members>Achieve3000__c</members>
         <members>AutoRABIT_Demo__c</members>
+        <members>BellasObject__c</members>
         <members>BooksApexClassPlusTestClass__c</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
@@ -271,6 +275,7 @@
         <members>Account__c</members>
         <members>Achieve3000__c</members>
         <members>AutoRABIT_Demo__c</members>
+        <members>BellasObject__c</members>
         <members>BooksApexClassPlusTestClass__c</members>
         <members>Campsite_Reservation__c</members>
         <members>Campsite__c</members>

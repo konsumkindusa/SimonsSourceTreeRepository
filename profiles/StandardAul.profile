@@ -46,6 +46,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>BellasObject__c.PicklistDemoForBella__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>BooksApexClassPlusTestClass__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -294,6 +299,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>BooksApexClassPlusTestClass__c-ApexClassPlusTestClass Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>BellasObject__c-BellasObject Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>

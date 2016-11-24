@@ -46,6 +46,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>BellasObject__c.PicklistDemoForBella__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>BooksApexClassPlusTestClass__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -295,6 +300,9 @@
     <layoutAssignments>
         <layout>BooksApexClassPlusTestClass__c-ApexClassPlusTestClass Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>BellasObject__c-BellasObject Layout</layout>
+    </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -329,6 +337,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>AutoRABIT_Demo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>BellasObject__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
