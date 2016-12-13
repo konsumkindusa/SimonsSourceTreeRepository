@@ -93,6 +93,11 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>BellasObjects</pluralLabel>
+    <recordTypes>
+        <fullName>BellasObjectRT</fullName>
+        <active>true</active>
+        <label>BellasObjectRT</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

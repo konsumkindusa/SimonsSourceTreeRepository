@@ -234,6 +234,7 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>BellasObject__c.BellasObjectRT</members>
         <members>Opportunity.Sales_Record</members>
         <name>RecordType</name>
     </types>
