@@ -106,6 +106,7 @@
         <members>B__c</members>
         <members>BellasObject__c</members>
         <members>BooksApexClassPlusTestClass__c</members>
+        <members>C__c</members>
         <members>Campsite_Reservation__c</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
@@ -158,6 +159,7 @@
         <members>B__c-B Layout</members>
         <members>BellasObject__c-BellasObject Layout</members>
         <members>BooksApexClassPlusTestClass__c-ApexClassPlusTestClass Layout</members>
+        <members>C__c-C Layout</members>
         <members>Campsite_Reservation__c-Campsite Reservation Layout</members>
         <members>Campsite__c-Campsite Layout</members>
         <members>Candidate__c-Candidate Layout</members>
@@ -255,6 +257,7 @@
         <members>B__c</members>
         <members>BellasObject__c</members>
         <members>BooksApexClassPlusTestClass__c</members>
+        <members>C__c</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
         <members>DaisyChainTest__c</members>
