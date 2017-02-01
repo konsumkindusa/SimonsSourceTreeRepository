@@ -98,6 +98,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>A__c</members>
         <members>Account_Record__c</members>
         <members>Account__c</members>
         <members>Achieve3000__c</members>
@@ -148,6 +149,7 @@
         <name>InstalledPackage</name>
     </types>
     <types>
+        <members>A__c-A Layout</members>
         <members>Account_Record__c-Account Record Layout</members>
         <members>Account__c-Account Layout</members>
         <members>Achieve3000__c-Achieve3000 Layout</members>
@@ -243,6 +245,7 @@
         <name>ReportType</name>
     </types>
     <types>
+        <members>A__c</members>
         <members>Account_Record__c</members>
         <members>Account__c</members>
         <members>Achieve3000__c</members>
