@@ -113,6 +113,7 @@
         <members>D__c</members>
         <members>DaisyChainTest__c</members>
         <members>E__c</members>
+        <members>F__c</members>
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
         <members>GitEZCommitTest__c</members>
@@ -168,6 +169,7 @@
         <members>D__c-D Layout</members>
         <members>DaisyChainTest__c-DaisyChainTest Layout</members>
         <members>E__c-E Layout</members>
+        <members>F__c-F Layout</members>
         <members>Fundraiser__c-Fundraiser Layout</members>
         <members>GIT_TEST__c-GIT TEST Layout</members>
         <members>GitEZCommitTest__c-GitEZCommitTest Layout</members>
@@ -267,6 +269,7 @@
         <members>D__c</members>
         <members>DaisyChainTest__c</members>
         <members>E__c</members>
+        <members>F__c</members>
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
         <members>GitEZCommitTest__c</members>
