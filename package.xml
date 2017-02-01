@@ -110,6 +110,7 @@
         <members>Campsite_Reservation__c</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
+        <members>D__c</members>
         <members>DaisyChainTest__c</members>
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
@@ -163,6 +164,7 @@
         <members>Campsite_Reservation__c-Campsite Reservation Layout</members>
         <members>Campsite__c-Campsite Layout</members>
         <members>Candidate__c-Candidate Layout</members>
+        <members>D__c-D Layout</members>
         <members>DaisyChainTest__c-DaisyChainTest Layout</members>
         <members>Fundraiser__c-Fundraiser Layout</members>
         <members>GIT_TEST__c-GIT TEST Layout</members>
@@ -260,6 +262,7 @@
         <members>C__c</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
+        <members>D__c</members>
         <members>DaisyChainTest__c</members>
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
