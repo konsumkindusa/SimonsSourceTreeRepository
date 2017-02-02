@@ -120,6 +120,7 @@
         <members>JiraTestObject__c</members>
         <members>JobPosting__c</members>
         <members>Job_Application__c</members>
+        <members>LaavGJ__c</members>
         <members>Merchandize__c</members>
         <members>Position_Title__c</members>
         <members>Position__c</members>
