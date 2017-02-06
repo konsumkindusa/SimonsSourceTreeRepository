@@ -91,6 +91,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>G__c.Gs_Checkbox__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>JiraTestObject__c.CheckBoxDemo__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -302,6 +307,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>BellasObject__c-BellasObject Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>G__c-G Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>true</default>
