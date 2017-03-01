@@ -2,8 +2,17 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>37.0</version>
     <types>
+        <members>HelloWorldTestClass</members>
+        <members>MyHelloWorld</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>Job_Candidate_Help</members>
         <name>ApexPage</name>
+    </types>
+    <types>
+        <members>BookTrigger</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>Account.Case_Escalation</members>
@@ -43,6 +52,9 @@
         <members>Account__c.Account_Rating__c</members>
         <members>Achieve3000__c.Demo_Description__c</members>
         <members>Activity.DB_Activity_Type__c</members>
+        <members>BellasObject__c.PicklistDemoForBella__c</members>
+        <members>BooksApexClassPlusTestClass__c.Price__c</members>
+        <members>BooksApexClassPlusTestClass__c.TestURLField__c</members>
         <members>Campaign.DB_Campaign_Tactic__c</members>
         <members>Campsite_Reservation__c.Campsite__c</members>
         <members>Campsite_Reservation__c.End_Date__c</members>
@@ -51,6 +63,9 @@
         <members>Campsite__c.Description__c</members>
         <members>Candidate__c.Rating__c</members>
         <members>GIT_TEST__c.GIT_TEST_TEXT__c</members>
+        <members>G__c.Gs_Checkbox__c</members>
+        <members>JiraTestObject__c.CheckBoxDemo__c</members>
+        <members>JiraTestObject__c.PickListModDemo__c</members>
         <members>JobPosting__c.PositionJobPosting__c</members>
         <members>JobPosting__c.Website__c</members>
         <members>Lead.DB_Created_Date_without_Time__c</members>
@@ -84,19 +99,30 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>A__c</members>
         <members>Account_Record__c</members>
         <members>Account__c</members>
         <members>Achieve3000__c</members>
         <members>AutoRABIT_Demo__c</members>
+        <members>B__c</members>
+        <members>BellasObject__c</members>
+        <members>BooksApexClassPlusTestClass__c</members>
+        <members>C__c</members>
         <members>Campsite_Reservation__c</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
+        <members>D__c</members>
         <members>DaisyChainTest__c</members>
+        <members>E__c</members>
+        <members>F__c</members>
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
+        <members>G__c</members>
         <members>GitEZCommitTest__c</members>
+        <members>JiraTestObject__c</members>
         <members>JobPosting__c</members>
         <members>Job_Application__c</members>
+        <members>LaavGJ__c</members>
         <members>Merchandize__c</members>
         <members>Position_Title__c</members>
         <members>Position__c</members>
@@ -131,18 +157,29 @@
         <name>InstalledPackage</name>
     </types>
     <types>
+        <members>A__c-A Layout</members>
         <members>Account_Record__c-Account Record Layout</members>
         <members>Account__c-Account Layout</members>
         <members>Achieve3000__c-Achieve3000 Layout</members>
         <members>AutoRABIT_Demo__c-AutoRABIT Demo Layout</members>
+        <members>B__c-B Layout</members>
+        <members>BellasObject__c-BellasObject Layout</members>
+        <members>BooksApexClassPlusTestClass__c-ApexClassPlusTestClass Layout</members>
+        <members>C__c-C Layout</members>
         <members>Campsite_Reservation__c-Campsite Reservation Layout</members>
         <members>Campsite__c-Campsite Layout</members>
         <members>Candidate__c-Candidate Layout</members>
+        <members>D__c-D Layout</members>
         <members>DaisyChainTest__c-DaisyChainTest Layout</members>
+        <members>E__c-E Layout</members>
+        <members>F__c-F Layout</members>
         <members>Fundraiser__c-Fundraiser Layout</members>
         <members>GIT_TEST__c-GIT TEST Layout</members>
+        <members>G__c-G Layout</members>
         <members>GitEZCommitTest__c-GitEZCommitTest Layout</members>
+        <members>JiraTestObject__c-JiraTestObject Layout</members>
         <members>Job_Application__c-Job Application Layout</members>
+        <members>LaavGJ__c-LaavGJ Layout</members>
         <members>Merchandize__c-Merchandize Layout</members>
         <members>Position_Title__c-Position Title Layout</members>
         <members>Position__c-Position Layout</members>
@@ -214,6 +251,7 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>BellasObject__c.BellasObjectRT</members>
         <members>Opportunity.Sales_Record</members>
         <name>RecordType</name>
     </types>
@@ -222,16 +260,26 @@
         <name>ReportType</name>
     </types>
     <types>
+        <members>A__c</members>
         <members>Account_Record__c</members>
         <members>Account__c</members>
         <members>Achieve3000__c</members>
         <members>AutoRABIT_Demo__c</members>
+        <members>B__c</members>
+        <members>BellasObject__c</members>
+        <members>BooksApexClassPlusTestClass__c</members>
+        <members>C__c</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
+        <members>D__c</members>
         <members>DaisyChainTest__c</members>
+        <members>E__c</members>
+        <members>F__c</members>
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
+        <members>G__c</members>
         <members>GitEZCommitTest__c</members>
+        <members>JiraTestObject__c</members>
         <members>Job_Application__c</members>
         <members>Merchandize__c</members>
         <members>Position_Title__c</members>
@@ -252,6 +300,8 @@
         <members>Account__c</members>
         <members>Achieve3000__c</members>
         <members>AutoRABIT_Demo__c</members>
+        <members>BellasObject__c</members>
+        <members>BooksApexClassPlusTestClass__c</members>
         <members>Campsite_Reservation__c</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
@@ -259,6 +309,7 @@
         <members>Fundraiser__c</members>
         <members>GIT_TEST__c</members>
         <members>GitEZCommitTest__c</members>
+        <members>JiraTestObject__c</members>
         <members>JobPosting__c</members>
         <members>Job_Application__c</members>
         <members>Merchandize__c</members>
